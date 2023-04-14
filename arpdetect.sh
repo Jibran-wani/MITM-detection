@@ -128,12 +128,4 @@ else
     echo "This is not a mac address"
     exit 0;
 fi
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
+
